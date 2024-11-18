@@ -36,7 +36,7 @@ This project is a backend application designed for managing stock orders and cus
 - IntelliJ IDEA or another IDE of your choice
 
 
-API Endpoints
+### API Endpoints
 Authentication
 POST /auth/login
 Login with username and password.
