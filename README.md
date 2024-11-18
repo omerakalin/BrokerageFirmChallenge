@@ -2,6 +2,9 @@
 
 This project is a backend application designed for managing stock orders and customer assets in a brokerage firm. It implements various functionalities such as placing orders, listing orders, withdrawing and depositing money, and handling different asset types like 'TRY' for deposits and withdrawals.
 
+You can easily access POSTMAN Collection from its file.
+H2 DB will be used as in file, you can modify your path while using it.
+
 ## Table of Contents
 - [Features](#features)
 - [Technologies Used](#technologies-used)
